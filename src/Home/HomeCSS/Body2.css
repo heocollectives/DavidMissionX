@@ -1,0 +1,48 @@
+@font-face{
+    font-family: nunito;
+    src: url(https://fonts.google.com/specimen/Nunito);
+  }
+  
+  @font-face{
+    font-family: Open-Sans;
+    src: url(https://fonts.google.com/specimen/Open+Sans);
+  }
+  
+  *{
+    font-family: nunito;
+  }
+  
+  .flexContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .teach-body{
+      background-color: white;
+      width: 100vw;
+      text-align: center;
+      color: #6C6C6C;
+    }
+    
+    .upper-title {
+      margin: 1rem 0;
+    }
+    
+    .title {
+      margin-bottom: 5rem;
+      display: inline-flex;
+    }
+    
+    .MainImage {
+      width: 75%;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      opacity: 65%;
+    }
+
+    .bottom-title {
+      margin: 1rem 0;
+      font-size: 2rem;
+    }

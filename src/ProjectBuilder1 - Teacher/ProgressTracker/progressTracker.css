@@ -1,0 +1,52 @@
+.project {
+    background-color: #B2E4FA;
+    position: relative;
+}
+
+.background-layer {
+    background-color: rgba(255, 255, 255, 0.5);
+    top: 0;
+    left: 0;
+    width: 110%;
+    height: 100%;
+    border-radius: 20px;
+    padding-bottom: 5%; 
+}
+
+.main-heading {
+    position: relative;
+    display: block;
+}
+
+h2 {
+    display: inline-flex;
+    padding: 2% 0 0 5%;
+    padding-bottom: 5%;
+    margin-top: 3%;
+}
+
+p {
+    float: right;
+    margin: 5% 0 0 0;
+    padding: 2% 8% 0 0;
+    font-size: 1rem;
+    text-align: right;
+    justify-content: right;
+}
+/* Progress Tracker */
+.student-image {
+    width: 90%;
+    height: 100%;
+    padding: 1% 0 1% 5%;
+}
+/* Student Profiles */
+.student-profiles {
+    width: 92%;
+    height: 85%;
+    padding: 5% 0 3% 5%;
+}
+.students {
+    width: 92%;
+    height: 85%;
+    padding: 0 0 3% 5%;
+}

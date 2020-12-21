@@ -1,0 +1,59 @@
+/* First Body Section "What We Offer" */
+.firstBody-container {
+    text-align: left;
+    color: #767676;
+    padding: 10% 28%;
+  }
+  .rectangle-container {
+    width: 637px;
+    height: 152px;
+    margin-top: 2%;
+    margin-left: -8px;
+    display: inline-block;
+  }
+  .carousel-container {
+    
+    padding: 10% 0;
+    width: 728px;
+    height: 493px;
+    display: inline-block;
+  }
+  .carousel-indicators li {
+    border-radius: 100%;
+    width: 11px;
+    height: 11px;
+    display: inline-block;
+    margin: 10px;
+    text-indent: 0;
+    cursor: pointer;
+    border: none;
+    border-style: solid;
+    border-color: #707070;
+  }
+  .carousel-indicators .active {
+    background-color: #707070;
+    width: 11px;
+    height: 11px;
+    margin: 10px;
+  }
+
+  .offer {
+    font-size: 2rem;
+    color: #767676;
+    text-align: left;
+  }
+
+  .body1-p {
+    font-family: "Nunito";
+    font-size: 1rem;
+    font-weight: bold;
+    padding-bottom: 5%;
+    color: #767676;
+    text-align: right; 
+    display: inline-block;
+  }
+
+  .students {
+      text-align: left;
+      font-size: 1.5rem;
+  }

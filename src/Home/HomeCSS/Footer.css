@@ -1,0 +1,38 @@
+.footerContainer {
+    height: 100%;
+    background-color: #b2e4fa;
+    padding: 6%;
+    color: #A5A5A5;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  .footerCol li {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .footer-style2 {
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .footerDivComp {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .footer-style {
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  
+  .footerContent {
+    width: 300px;
+    text-align: right;
+  }

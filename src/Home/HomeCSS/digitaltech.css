@@ -1,0 +1,56 @@
+  /* Fourth Body: What are you waiting for? */
+  #signUp {
+    padding: 5% 15%;
+    color: #6C6C6C;
+  }
+  .signUpImage {
+    width: 80%;
+    display: inline-block;
+  }
+  .signUpParagraph-1 {
+    font-family: "Open Sans";
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 1%;
+    text-align: center;
+  }
+  .signUpParagraph-2 {
+    font-family: "Open Sans";
+    font-size: 1em;
+    font-weight: bold;
+    padding-bottom: 2%;
+    text-align: center;
+  }
+  /* Button Section */
+
+  .signUpButtons {
+    position: absolute;
+    bottom: 0;
+    right: 110px;
+    align-content: center;
+    justify-content: center;
+  }
+  .buttonRight, .buttonLeft {
+    border-radius: 8px;
+    font-family: "Nunito";
+    font-weight: bolder;
+  }
+  .buttonRight {
+    padding: 1px 50px;
+    font-size: 16px;
+    color: white;
+    background-color: #F91C85;
+  }
+  .buttonLeft {
+    padding: 1px 23px;
+    background-color: #FFFFFF;
+    font-size:16px;
+    outline-color: #43C0F6;
+    color:#707070;
+  }
+
+  .waiting {
+      color: #6C6C6C;
+      font-size: 2rem;
+      text-align: center;
+  }
